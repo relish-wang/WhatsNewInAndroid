@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="add_website"
+        android:enabled="true"
+        android:icon="@drawable/add"
+        android:shortcutLongLabel="@string/add_new_website"
+        android:shortcutShortLabel="@string/add_new_website_short"
+        android:shortcutDisabledMessage="@string/disabled_message">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="wang.relish.android7"
+            android:targetClass="wang.relish.android7.sample.ShortcutsSampleActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

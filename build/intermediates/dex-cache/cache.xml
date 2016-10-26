@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.0.0_8bc450db5f0e8619f823198d7bf995e6ed2b1bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.0.0_03692dc793e67244825660c4f0d9365e745623a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-design-25.0.0_4c38d987100f9046c67a23c24719ec4b9dc0ca2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.0.0_582d7b1b7082c018b59c26900aa0ec6d7c2912ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_41c9770a02e8626043ee46ddf38c39b64706a84e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_0495f5ab2505ed3c994b553ffe5479be3cbbce2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_ccfe99e59452d0d10e3ccb8f0ebbe38bb1423d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_0307e4418292a92776578d900a5e64e9d2f05a00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_5de2be4bb54065c95c2c4e12bd8f6760e1a6b041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.0.0_421269d1f3e155a8a549467d212c305245fc065f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.0.0_38ecb5424c7559fca48a83bc4cd5d617102013e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f23bb9a7cc68b7c043aa2892880e7d226fc60e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.0.0_e51449915b37396af3e4123b3dfb072c5a0a71ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_e454ab37a82832947d9b33a9f623ce88a9ecc48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_e7952f399efb708ef6e9f20dab25bce65fdc7849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8871cd43a9c264e04855b6ecc33f21bd80c57c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\SDK\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_e2e23d194818b8416664eb4497821968aa2d2294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.0.0_24a0cb489c57c5bbb1941a3900b4c6554799513f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_3521e090c0409ba38b562b17a78ac8818f3724fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_d860175d50da363bc8be059c2b2fe454ea9a8295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.0.0_b8c945c1afc1c027fba7f272089f23c96fccc7a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_95404467b1c82a20b79af52ee460108a15ab1573.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_81972715a5b4cfefc3d145cfd42b80ba651fd23e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_5544023f7610144157fada410feda9c89fc53732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_30d63e8980b035f04ca7c5cfb9da893a7970f19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-transition-25.0.0_87c6ebcea1c666ea0a6111609cbad5ee6b12f3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_5a89544ea6fc13f119305260a8ad3f83e7a5a8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_f494249fd1f02cb9ca9bc8e2a037601a1e77faf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0106324f6d136e7c1118dd7b8e42df8c9d906dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_7181ad045b6f7590cbcc0397196d1ff0fc53e44c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_793c004ea22d2e48f726a69920c763d8e228e836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_4486e48684e7fe7ed1a0c2f8eff9c447bdc8b2bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.0.0_14c66af0956409b329f96ba002e12ca99d38e8c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.0.0_183c38ce22253925f985ca177c44bd87ec02a691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\internal_impl-25.0.0_068712a384d86821ee7278dc1a9fa8719cb97e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\servyou\git\androidndemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Programming\servyou\git\androidndemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_783e517db09896c4b6cda7b524c05b9dc615b032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Programming\GitHub\AndroidNDemo\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.0.0_dee46678b9059c55c3fb9ed7c2ab15beea497bf7.jar" />
+    </item>
+
+</items>

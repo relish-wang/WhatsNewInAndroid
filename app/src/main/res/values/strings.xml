@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">AndroidNDemo</string>
+    <string name="multi_window_sample">多窗口Playground</string>
+    <string name="active_notifications_sample">活动通知</string>
+    <string name="messaging_service_sample">消息传递服务</string>
+    <string name="direct_boot_sample">直接启动</string>
+    <string name="scoped_directory_access_sample">作用域目录访问</string>
+    <string name="what_is_new_in_api24">Android N新特性解析</string>
+    <string name="warning_of_multi_window">请在多窗口模式下使用此APP!(长按最近任务按钮开启多窗口模式)</string>
+    <string name="start_default">启动一个默认的Activity</string>
+    <string name="default_activity">默认可分屏。\n详情请见AndroidManifest.xml</string>
+    <string name="start_unresizable">启动一个<b>禁止分屏</b>的Activity</string>
+    <string name="activity_unresizable">
+        一个禁止分屏的Activity\n
+        在AndroidManifest.xml的当前&lt; activity&gt;节点下设置:\n
+        <b>android:resizeableActivity=\"false\"</b>\n
+        即可\n\n
+    详情请见AndroidManifest.xml</string>
+    <string name="start_adjacent">在<b>相邻窗口</b>上启动的Activity</string>
+    <string name="activity_adjacent">跳转该Activity的Intent应设置如下Flag:\n
+        intent.addFlags(\nIntent.FLAG_ACTIVITY_LAUNCH_ADJACENT | \nIntent.FLAG_ACTIVITY_NEW_TASK);</string>
+    <string name="minimum_size_sample">启动一个有最小尺寸限制的Activity</string>
+    <string name="activity_minimum_size_sample">
+        有最小尺寸限制的Activity\n\n
+        默认尺寸是750dp*500dp\n
+        最小尺寸是500dp*500dp（定义在AndroidManifest里）\n
+        (自由分配两窗口大小，查看效果)
+    </string>
+    <string name="drag_data">跨窗口拖放数据</string>
+    <string name="drag_data_hint">待拖拽的数据</string>
+    <string name="please_put_data_here">请拖拽至此区域</string>
+    <string name="add">+</string>
+    <string name="add_a_notification">发出一个通知按钮</string>
+    <string name="sample_notification_content">通知内容</string>
+    <string name="sample_notification_summary_content">这里有%s条通知</string>
+    <string name="active_notifications">通知数量：%1$d</string>
+    <string name="intro_message">
+        <![CDATA[
+        在Android N(7.x)中通知可以被分组。从Android M（6.0）开始，通知管理器（NotificationManager）
+        可以告诉你，你的app当前有多少通知（在通知栏中）。这个Demo展示了当你的app有多个通知时，
+        如何去使用这些API去打造一个更好的用户体验。现在你可以点击【发出一个通知按钮】，下方会显示当前通知栏中的
+        通知数量。当你从通知栏删除一个通知，通知数量会通过PendingIntent得到更新（数量-1）.
+        ]]>
+    </string>
+    <string name="sample_notification_title">通知标题 %d</string>
+
+
+    <string name="replied">已回复</string>
+    <string name="reply">回复</string>
+    <string name="send_conversation">发送1个对话</string>
+    <string name="clear_log">清除Log</string>
+
+    <string name="alarm_saved">Alarm scheduled at %1$2d:%2$02d</string>
+    <string name="alarm_deleted">Deleted the alarm at %1$2d:%2$02d</string>
+    <string name="alarm_went_off">Alarm went off at %1$2d:%2$02d</string>
+    <string name="time_24hour_format">%1$2d:%2$02d</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="registered_alarms">Registered alarms</string>
+
+     <string name="direct_boot_intro_message">
+        <![CDATA[
+
+
+This sample demonstrates how to store/access data in a device protected storage
+which is always available while the device is booted.
+This sample works as a simple alarm clock. On > Android N devices, the scheduled alarms
+go off after reboot even before the user enters their credentials.
+
+
+        ]]>
+    </string>
+
+    <string name="open_directory">Open</string>
+    <string name="selected_directory">Selected directory:\ </string>
+    <string name="nothing_in_directory">Nothing in the directory</string>
+    <string name="primary_volume_description">Internal shared storage</string>
+    <string name="return_to_home">return to home</string>
+    <string name="add_new_website_short">Add Website</string>
+    <string name="add_new_website">Add New Website</string>
+    <string name="shortcuts_sample">快捷方式</string>
+    <string name="add_website">添加一个网页</string>
+    <string name="diable_it">disable it</string>
+    <string-array name="directories">
+        <item>ALARMS</item>
+        <item>DCIM</item>
+        <item>DOCUMENTS</item>
+        <item>DOWNLOADS</item>
+        <item>MOVIES</item>
+        <item>MUSIC</item>
+        <item>NOTIFICATIONS</item>
+        <item>PICTURES</item>
+        <item>PODCASTS</item>
+        <item>RINGTONES</item>
+    </string-array>
+    <string name="disabled_message">this shortcuts is disable, please remove it.</string>
+    <string name="enable_it">enable it</string>
+    <string name="http_text">http://</string>
+    <string name="cannot_be_modified">Can\'t be Modified</string>
+    <string name="remove">remove</string>
+    <string name="quick_setting_sample">快速设置</string>
+    <string name="about">Powered by RelishWang</string>
+    <string name="github">github</string>
+    <string name="tile_label">快速设置例子</string>
+    <string name="service_active">启用</string>
+    <string name="service_inactive">关闭</string>
+    <string name="quick_setting">快去快速设置栏找出该应用的快速设置图块吧</string>
+
+
+</resources>

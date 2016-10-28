@@ -1,8 +1,11 @@
 package wang.relish.android7;
 
 import android.content.Intent;
+import android.content.pm.ShortcutManager;
 import android.os.Bundle;
 import android.view.View;
+
+import java.util.Collections;
 
 import wang.relish.android7.sample.ActiveNotificationsSampleActivity;
 import wang.relish.android7.sample.DirectBootSampleActivity;

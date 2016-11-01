@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidNDemo</string>
+    <string name="app_name">Demo for N</string>
     <string name="multi_window_sample">多窗口Playground</string>
     <string name="active_notifications_sample">活动通知</string>
     <string name="messaging_service_sample">消息传递服务</string>

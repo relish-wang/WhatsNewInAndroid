@@ -60,6 +60,6 @@ public class MainActivity extends BaseActivity {
 
     // 作者GitHub地址
     public void goGitHub(View view) {
-        goActivity(Intent.ACTION_VIEW, "https://github.com/relish-wang");
+        goActivity(Intent.ACTION_VIEW, "https://github.com/relish-wang/DemoForN");
     }
 }

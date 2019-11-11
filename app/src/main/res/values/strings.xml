@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Demo for N</string>
+    <string name="app_name">WhatsNew</string>
     <string name="multi_window_sample">多窗口Playground</string>
     <string name="active_notifications_sample">活动通知</string>
     <string name="messaging_service_sample">消息传递服务</string>
     <string name="direct_boot_sample">直接启动</string>
     <string name="scoped_directory_access_sample">作用域目录访问</string>
     <string name="what_is_new_in_api24">Android N新特性解析</string>
+    <string name="what_is_new_in_android">Android新版本新特性解析</string>
     <string name="warning_of_multi_window">请在多窗口模式下使用此APP!(长按最近任务按钮开启多窗口模式)</string>
     <string name="start_default">启动一个默认的Activity</string>
     <string name="default_activity">默认可分屏。\n详情请见AndroidManifest.xml</string>

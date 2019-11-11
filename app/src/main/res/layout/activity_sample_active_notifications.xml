@@ -29,7 +29,7 @@
 
         <fragment
             android:id="@+id/log_fragment"
-            android:name="wang.relish.android7.sample.activenotifications.ActiveNotificationsFragment"
+            android:name="wang.relish.whatsnew.n.activenotifications.ActiveNotificationsFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             tools:layout="@layout/fragment_notification_builder" />

@@ -3,4 +3,7 @@
 *.iml
 local.properites
 build/
-app/build/
+**/build/
+.DS_Store
+**/.DS_Store
+**/*.iml

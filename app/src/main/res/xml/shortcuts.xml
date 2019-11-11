@@ -11,7 +11,7 @@
         <intent
             android:action="android.intent.action.VIEW"
             android:targetPackage="wang.relish.android7"
-            android:targetClass="wang.relish.android7.sample.ShortcutsSampleActivity" />
+            android:targetClass="wang.relish.whatsnew.n.ShortcutsSampleActivity" />
         <categories android:name="android.shortcut.conversation" />
     </shortcut>
 </shortcuts>

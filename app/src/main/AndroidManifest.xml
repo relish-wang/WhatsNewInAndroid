@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="wang.relish.android7"
-    android:versionCode="2"
-    android:versionName="1.0.1">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="wang.relish.whatsnew">
 
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <application
         android:allowBackup="true"
@@ -13,9 +13,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:fullBackupContent="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".MainActivity"
+            android:name="wang.relish.whatsnew.MainActivity"
             android:taskAffinity="">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,36 +30,40 @@
                 android:resource="@xml/shortcuts" />
         </activity>
         <activity
-            android:name=".sample.MultiWindowSampleActivity"
+            android:name="wang.relish.whatsnew.n.MultiWindowSampleActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.ActiveNotificationsSampleActivity"
+            android:name="wang.relish.whatsnew.n.ActiveNotificationsSampleActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.MessagingServiceSampleActivity"
+            android:name="wang.relish.whatsnew.n.MessagingServiceSampleActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.DirectBootSampleActivity"
+            android:name="wang.relish.whatsnew.n.DirectBootSampleActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.ScopedDirectoryAccessSampleActivity"
+            android:name="wang.relish.whatsnew.n.ScopedDirectoryAccessSampleActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.multiwindowplayground.AdjacentActivity"
+            android:name="wang.relish.whatsnew.n.multiwindowplayground.AdjacentActivity"
             android:taskAffinity="" />
         <activity
-            android:name=".sample.multiwindowplayground.UnresizableActivity"
+            android:name="wang.relish.whatsnew.n.multiwindowplayground.UnresizableActivity"
             android:resizeableActivity="false" />
 
-        <activity android:name=".sample.ShortcutsSampleActivity" />
-        <activity android:name=".sample.QuickSettingSampleActivity" />
+        <activity android:name="wang.relish.whatsnew.n.ShortcutsSampleActivity" />
+        <activity android:name="wang.relish.whatsnew.n.QuickSettingSampleActivity" />
+        <activity android:name="wang.relish.whatsnew.n.MainActivity" />
+        <activity android:name=".q.CameraActivity" />
+        <activity android:name=".q.StorageActivity" />
+        <activity android:name=".q.CameraActivity" />
 
         <service
-            android:name=".sample.messagingservice.MessagingService"
+            android:name="wang.relish.whatsnew.n.messagingservice.MessagingService"
             android:taskAffinity="" />
 
         <receiver
-            android:name=".sample.messagingservice.MessageReadReceiver"
+            android:name="wang.relish.whatsnew.n.messagingservice.MessageReadReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="wang.relish.android7.sample.messagingservice.ACTION_MESSAGE_READ" />
@@ -66,7 +71,7 @@
         </receiver>
 
         <receiver
-            android:name=".sample.messagingservice.MessageReplyReceiver"
+            android:name="wang.relish.whatsnew.n.messagingservice.MessageReplyReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="wang.relish.android7.sample.messagingservice.ACTION_MESSAGE_REPLY" />
@@ -74,7 +79,7 @@
         </receiver>
 
         <receiver
-            android:name=".sample.directboot.BootBroadcastReceiver"
+            android:name="wang.relish.whatsnew.n.directboot.BootBroadcastReceiver"
             android:directBootAware="true"
             android:exported="false">
             <!-- Listening the BOOT_COMPLETED action for legacy pre-N devices -->
@@ -85,11 +90,11 @@
         </receiver>
 
         <service
-            android:name=".sample.directboot.alarm.AlarmIntentService"
+            android:name="wang.relish.whatsnew.n.directboot.alarm.AlarmIntentService"
             android:directBootAware="true"
             android:exported="false" />
         <service
-            android:name=".sample.quicksettings.QuickSettingService"
+            android:name="wang.relish.whatsnew.n.quicksettings.QuickSettingService"
             android:icon="@drawable/ic_android_black_24dp"
             android:label="@string/tile_label"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
